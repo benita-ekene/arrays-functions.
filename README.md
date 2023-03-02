@@ -20,7 +20,7 @@ Mutating array methods change the original array by adding, removing, or modifyi
       <th>Non-mutating Array Methods</th>
     </tr>
     <tr>
-      <td><b>1.</b>  concat() - returns a new array that combines two or more arrays</td>
+      <td><h2>1.</h2>  concat() - returns a new array that combines two or more arrays</td>
       <td>2.  slice() - returns a new array that contains a portion of an existing array</td>
       <td>3.  map() - returns a new array by applying a function to each element of an existing array</td>
       <td>4.   filter() - returns a new array containing elements that pass a test function</td>
