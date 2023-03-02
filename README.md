@@ -6,7 +6,7 @@ Mutating array methods change the original array by adding, removing, or modifyi
     <tr style="font-size: 40px ;border-spacing">
       <th>Mutating Array Methods </th>
       <th>Non-mutating Array Methods</th>
-    </tr>
+    </tr><br>
     <tr>
       <td>push() - adds one or more elements to the end of an array</td>
       <td>pop() - removes the last element from an array</td>
