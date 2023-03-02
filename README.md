@@ -4,27 +4,27 @@ Mutating array methods change the original array by adding, removing, or modifyi
 
 <Table>
     <tr style="font-size: 40px ;border-spacing">
-      <th>Mutating Array Methods </th>
+      <th><h2>Mutating Array Methods</h2> </th>
     </tr>
     <tr>
-      <td>1.  push() - adds one or more elements to the end of an array</td>
-      <td>2.  pop() - removes the last element from an array</td>
-      <td>3.  splice() - adds or removes elements from an array at a specific index</td>
-      <td>4.  sort() - sorts the elements of an array in place</td>
-      <td>5.  reverse() - reverses the order of elements in an array in place</td>
+      <td><h3>1.</h3>  push() - adds one or more elements to the end of an array</td>
+      <td><h3>2.</h3>.  pop() - removes the last element from an array</td>
+      <td><h3>3.</h3>  splice() - adds or removes elements from an array at a specific index</td>
+      <td><h3>4.</h3>  sort() - sorts the elements of an array in place</td>
+      <td><h3>5.</h3>  reverse() - reverses the order of elements in an array in place</td>
     </tr>
   </Table>
 
   <Table>
     <tr style="font-size: 40px ;border-spacing">
-      <th>Non-mutating Array Methods</th>
+      <th><h2>Non-mutating Array Methods</h2></th>
     </tr>
     <tr>
-      <td><h2>1.</h2>  concat() - returns a new array that combines two or more arrays</td>
-      <td>2.  slice() - returns a new array that contains a portion of an existing array</td>
-      <td>3.  map() - returns a new array by applying a function to each element of an existing array</td>
-      <td>4.   filter() - returns a new array containing elements that pass a test function</td>
-      <td>5.   reduce() - returns a single value by applying a function to each element of an existing array and accumulating the results.</td>
+      <td><h3>1.</h3>  concat() - returns a new array that combines two or more arrays</td>
+      <td><h3>2.</h3>  slice() - returns a new array that contains a portion of an existing array</td>
+      <td><h3>3.</h3>  map() - returns a new array by applying a function to each element of an existing array</td>
+      <td><h3>4.</h3>   filter() - returns a new array containing elements that pass a test function</td>
+      <td><h3>5.</h3>   reduce() - returns a single value by applying a function to each element of an existing array and accumulating the results.</td>
     </tr>
   </Table>
 
