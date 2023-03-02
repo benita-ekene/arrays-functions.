@@ -3,9 +3,7 @@
 Mutating array methods change the original array by adding, removing, or modifying elements in-place, while non-mutating array methods return a new array without modifying the original one. <br>
 
 <Table>
-    <tr style="font-size: 40px ;border-spacing">
       <th><h2>Mutating Array Methods</h2> </th>
-    </tr>
     <tr>
       <td><h3>1.</h3>  push() - adds one or more elements to the end of an array</td>
       <td><h3>2.</h3>.  pop() - removes the last element from an array</td>
