@@ -7,11 +7,11 @@ Mutating array methods change the original array by adding, removing, or modifyi
       <th>Mutating Array Methods </th>
     </tr>
     <tr>
-      <td>push() - adds one or more elements to the end of an array</td>
-      <td>pop() - removes the last element from an array</td>
-      <td>splice() - adds or removes elements from an array at a specific index</td>
-      <td>sort() - sorts the elements of an array in place</td>
-      <td>reverse() - reverses the order of elements in an array in place</td>
+      <td>1.  push() - adds one or more elements to the end of an array</td>
+      <td>2.  pop() - removes the last element from an array</td>
+      <td>3.  splice() - adds or removes elements from an array at a specific index</td>
+      <td>4.  sort() - sorts the elements of an array in place</td>
+      <td>5.  reverse() - reverses the order of elements in an array in place</td>
     </tr>
   </Table>
 
@@ -20,11 +20,11 @@ Mutating array methods change the original array by adding, removing, or modifyi
       <th>Non-mutating Array Methods</th>
     </tr>
     <tr>
-      <td>concat() - returns a new array that combines two or more arrays</td>
-      <td>slice() - returns a new array that contains a portion of an existing array</td>
-      <td>map() - returns a new array by applying a function to each element of an existing array</td>
-      <td> filter() - returns a new array containing elements that pass a test function</td>
-      <td> reduce() - returns a single value by applying a function to each element of an existing array and accumulating the results.</td>
+      <td>1.  concat() - returns a new array that combines two or more arrays</td>
+      <td>2.  slice() - returns a new array that contains a portion of an existing array</td>
+      <td>3.  map() - returns a new array by applying a function to each element of an existing array</td>
+      <td>4.   filter() - returns a new array containing elements that pass a test function</td>
+      <td>5.   reduce() - returns a single value by applying a function to each element of an existing array and accumulating the results.</td>
     </tr>
   </Table>
 
