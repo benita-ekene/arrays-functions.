@@ -3,7 +3,7 @@
 Mutating array methods change the original array by adding, removing, or modifying elements in-place, while non-mutating array methods return a new array without modifying the original one. <br>
 
 <Table>
-    <tr>
+    <tr style="font-size: 40px ;border-spacing">
       <th>Mutating Array Methods </th>
       <th>Non-mutating Array Methods</th>
     </tr>
