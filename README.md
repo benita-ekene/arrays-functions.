@@ -6,14 +6,14 @@ Mutating array methods change the original array by adding, removing, or modifyi
     <tr style="font-size: 40px ;border-spacing">
       <th>Mutating Array Methods </th>
       <th>Non-mutating Array Methods</th>
-    </tr><br>
-    <tr>
+    </tr>
+    <tc>
       <td>push() - adds one or more elements to the end of an array</td>
       <td>pop() - removes the last element from an array</td>
       <td>splice() - adds or removes elements from an array at a specific index</td>
       <td>sort() - sorts the elements of an array in place</td>
       <td>reverse() - reverses the order of elements in an array in place</td>
-    </tr>
+    </tc>
     <tr>
       <td>concat() - returns a new array that combines two or more arrays</td>
       <td>slice() - returns a new array that contains a portion of an existing array</td>
