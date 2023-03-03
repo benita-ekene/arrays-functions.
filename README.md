@@ -1,5 +1,5 @@
 # Arrays-functions.
-<h2>Question 1 </h2>  <h2>The differences between mutating array methods and non-mutation array methods in JavaScrip</h2>
+<h2>Question 1 </h2>  <h2>The differences between mutating array methods and non-mutation array methods in JavaScript</h2>
 Mutating array methods change the original array by adding, removing, or modifying elements in-place, while non-mutating array methods return a new array without modifying the original one. <br>
 
 <Table>
@@ -34,7 +34,8 @@ Mutating array methods change the original array by adding, removing, or modifyi
   return fruit; <br>
 }<br>
 console.log(fruit)<br>
-Also check index.js<br>
+
+//Also check index.js<br>
 <h3>Output:</h3>
 'apple', 'mango', 'banana'<br>
 
