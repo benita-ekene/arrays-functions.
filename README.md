@@ -6,7 +6,7 @@ Mutating array methods change the original array by adding, removing, or modifyi
       <h2>Mutating Array Methods</h2> 
     <tr>
       <td><h3>1.</h3>  push() - adds one or more elements to the end of an array</td>
-      <td><h3>2.</h3>.  pop() - removes the last element from an array</td>
+      <td><h3>2.</h3>  pop() - removes the last element from an array</td>
       <td><h3>3.</h3>  splice() - adds or removes elements from an array at a specific index</td>
       <td><h3>4.</h3>  sort() - sorts the elements of an array in place</td>
       <td><h3>5.</h3>  reverse() - reverses the order of elements in an array in place</td>
@@ -25,7 +25,18 @@ Mutating array methods change the original array by adding, removing, or modifyi
     </tr>
   </Table>
 
-<h2>Question 2  </h2>
-<h2>Question 3  </h2>
-<h2>Question 4  </h2>
-<h2>Question 5  </h2>
+<h2>Question 2  Check index.js</h2>
+
+<h2>Question 3  What will be the value of fruit after calling the function changeFruit?</h2> 
+ let fruit = ['apple', 'mango', 'banana'];<br> 
+ function changeFruit( fruit ) { <br>
+  fruit[2] = "orange"; <br>
+  return fruit; <br>
+}<br>
+console.log(fruit)<br>
+<h2>Also check index.js</h2>
+<h3>Output:</h3>
+'apple', 'mango', 'banana'<br>
+
+<h2>Question 4  Check index.js</h2>
+<h2>Question 5  Check index.js</h2>
