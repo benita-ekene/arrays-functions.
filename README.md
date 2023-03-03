@@ -33,8 +33,8 @@ Mutating array methods change the original array by adding, removing, or modifyi
   fruit[2] = "orange"; <br>
   return fruit; <br>
 }<br>
-console.log(fruit)<br> "\n"
-
+console.log(fruit)<br>
+<br>
 //Also check index.js<br>
 <h3>Output:</h3>
 'apple', 'mango', 'banana'<br>
