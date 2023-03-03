@@ -25,7 +25,7 @@ Mutating array methods change the original array by adding, removing, or modifyi
     </tr>
   </Table>
 
-<h2>Question 2</h2> <h2>Check index.js</h2>
+<h2>Question 2</h2> Check index.js<br>
 
 <h2>Question 3</h2> <h2>  What will be the value of fruit after calling the function changeFruit?</h2> 
  let fruit = ['apple', 'mango', 'banana'];<br> 
@@ -34,9 +34,9 @@ Mutating array methods change the original array by adding, removing, or modifyi
   return fruit; <br>
 }<br>
 console.log(fruit)<br>
-<h2>Also check index.js</h2>
+Also check index.js<br>
 <h3>Output:</h3>
 'apple', 'mango', 'banana'<br>
 
-<h2>Question 4</h2> <h2>  Check index.js</h2>
-<h2>Question 5</h2> <h2>  Check index.js</h2>
+<h2>Question 4</h2>   Check index.js<br>
+<h2>Question 5</h2>   Check index.js<br>
